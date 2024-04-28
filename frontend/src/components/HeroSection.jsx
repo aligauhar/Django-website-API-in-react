@@ -6,7 +6,7 @@ import React from 'react';
 const CustomNavbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" style={{ backdropFilter: 'blur(10px)', backgroundColor: 'rgba(173, 216, 230, 0.5)' }}>
-      <img className='nav-img' src="main.png" alt="" />
+      <img className='nav-img' src="main.PNG" alt="" />
       <h4 className='navbar_title'>
         Law API (React - Django)
       </h4>
