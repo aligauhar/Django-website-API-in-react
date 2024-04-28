@@ -20,7 +20,7 @@ const Footer = () => {
             <p>Developed By Ali</p>
           </div>
           <div className="right">
-            <p>Barkhia Hospital</p>
+            <p>Law Api Usage</p>
           </div>
         </div>
       </div>

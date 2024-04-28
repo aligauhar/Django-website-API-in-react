@@ -42,9 +42,59 @@
   .body-after-nav {
     margin-top: 80px;
   }
-  .footer-margin{
-    margin-top: 20px;
-  }
+
   .appointment{
     color:#0d6efd;
   }
+
+  .form-main-div {
+    margin-top: 100px !important;
+}
+
+.user_scenario_input{
+  margin-left: 10px;
+  border-radius: 23px;
+  width:50%;
+}
+
+.user_scenario_button{
+  border-radius: 23px;
+  background-color: #0d6efd;
+  border: 1px solid #0d6efd;
+  padding: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+  font-weight: 400;
+  display: block;
+}
+.API_response{
+  margin-left: 10px;
+  border-radius: 13px;
+  width:50%;
+  min-height:250px;
+  margin-top: 10px;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#root{
+  display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+footer {
+  margin-top: auto;
+}
+.navbar_title{
+  color:#92befe;
+
+}
+
+input.user_scenario_input {
+  padding-left: 15px;
+}
